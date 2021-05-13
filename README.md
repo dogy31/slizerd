@@ -1,2 +1,2 @@
-# Sliz.gethub.io
+# Slizerd.github.io
 Я сделял
