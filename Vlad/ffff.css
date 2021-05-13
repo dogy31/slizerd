@@ -1,0 +1,38 @@
+body {
+    background-image:url('lize.gif');
+;
+
+    background-position: center;
+    background-position:unset ;
+    background-size: cover;
+    background-attachment: fixed;
+} 
+
+p{
+
+
+    padding: 10px 15px;
+    margin: 3% 45% 0 3%;
+    background-color: rgb(77, 77, 77);
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+}
+
+h1{
+
+    padding: 10px 15px 15px;
+    margin: 3% 45% 0 3%;
+    color:rgb(56, 56, 56);
+    font-size: 60px;
+
+}
+h2{
+
+
+    padding: 10px 15px 15px;
+    margin: 3% 45% 0 3%;
+    color:rgb(56, 56, 56);
+    font-size: 50px;
+
+
+}
