@@ -1,2 +1,2 @@
-# slizerd.github.io
+# slizerd
 Я сделял
