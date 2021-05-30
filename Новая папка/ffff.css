@@ -111,13 +111,14 @@ body{
     display: none;
     width: 200px;
     background: #fde910;
+    opacity 3;  
   }
   #menu1 ul li:hover ul{
     display: block;
   }
   #menu1 ul li ul li{
     float: none;
-    width: 100%;
+    width: 100%; 
   }
   #menu1 ul li ul li a{
     display: block;
